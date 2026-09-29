@@ -21,7 +21,8 @@ This project cleans, models, and visualizes sales data to determine key customer
 * Short Commutes (0–1 Miles): Customers residing closer to their workplace show the highest purchase volume.
 * Longer Commutes: Bike purchases drop significantly as commute distance increases (e.g., 10+ miles), though moderate activity is visible in the 2–5 mile range.
 
- (Screenshot%202026-09-29%20112807.png)
+
+[Screenshot 1](Screenshot%202026-09-29%20112807.png)
  
 ## Interactive Filters (Slicers)
 
@@ -30,7 +31,7 @@ The dashboard allows users to dynamically filter data by:
 * Education Level: Bachelors, Graduate Degree, High School, Partial College, Partial High School
 * Region: Europe, North America, Pacific
 
-(Screenshot%202026-09-29%20112828.png)
+[Screenshot 2](Screenshot%202026-09-29%20112828.png)
 
 ## Tools & Technologies
 
